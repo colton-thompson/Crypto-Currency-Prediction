@@ -272,10 +272,3 @@ plt.title(f"Forecasting the next {len(yhat)} days")
 plt.legend()
 plt.savefig("BTC_predictions.png")
 plt.show()
-
-
-# In[ ]:
-
-
-
-
